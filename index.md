@@ -11,8 +11,8 @@
 
 ## Detailed syllabus
 ### Week 1
-<!-- * Introduction to Deep  ([Slides](Materials/intro.pdf))
-* Reading assignment for next week: [Advanced Programming using Python Course]( https://sadegh28.github.io/AP1400-1/) or other similar Python programming courses  -->
+* A high Level Introduction to Machine Learning and Deep Learning  ([Slides](Materials/Lecture1(Intro).pdf))
+* Reading assignment for next week: Chapters 1-5 of the deep learning book
 
 
 
