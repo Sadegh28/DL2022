@@ -14,5 +14,11 @@
 * A high Level Introduction to Machine Learning and Deep Learning  ([Slides](Materials/Lecture1(Intro).pdf))
 * Reading assignment for next week: Chapters 1-5 of the deep learning book
 
+### Week 2
+* An Introduction to MLP, Activation Functions and Backpropagation ([Slides](Materials/Lecture2(MLP).pdf))
+* Colab notebook on building, training and evaluating a basic MLP for the Iris dataset using Pytorch ([Codes](Materials/MLP%20for%20Iris%20(Pytorch).rar))
+* Reading assignment for next week: Chapters 6-8 of the deep learning book
+
+
 
 
