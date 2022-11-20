@@ -24,5 +24,12 @@
 * Reading assignment for next week: Chapters 9 of the deep learning book
 
 
+### Week 4
+* An Introduction to Convolutional Neural Nets, Pooling Layers, Object Detection, and State-of-The-Art CNN Networks  ([Slides](Materials/Lecture4(CNN).pdf))
+* **Reading assignment for the next week**: 
+1. He, K., Zhang, X., Ren, S. and Sun, J., 2016. Deep residual learning for image recognition. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 770-778).
+2. Szegedy, C., Ioffe, S., Vanhoucke, V. and Alemi, A.A., 2017, February. Inception-v4, inception-resnet and the impact of residual connections on learning. In Thirty-first AAAI conference on artificial intelligence.
+
+
 
 
