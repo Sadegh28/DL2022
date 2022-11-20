@@ -21,7 +21,7 @@
 
 ### Week 3
 * A Review to General Optimization Algorithms, Gradient Decsent, Hessian Matrices, Convex Optimization and Deep Learning Optimzation Methods including Stochastic Gradient Desccent, Momentum, AdaGrad, RMSProp, and Adam  ([Slides](Materials/Lecture3%20(Optimization).pdf))
-* Reading assignment for next week: Chapters 9 of the deep learning book
+* Reading assignment for next week: Chapter 9 of the deep learning book
 
 
 ### Week 4
