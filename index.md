@@ -32,4 +32,8 @@
 
 
 
+### Week 5
+* An Introduction to Recurrent Neural Nets, Unfolding, and Long-Short Term Memory (LSTM) Networks  ([Slides](Materials/Lecture5(RNN).pdf))
+* **Reading assignment for the next week**: 
+1. Hochreiter, S. and Schmidhuber, J., 1997. Long short-term memory. Neural computation, 9(8), pp.1735-1780.
 
